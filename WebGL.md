@@ -11,11 +11,11 @@
  - [Haxiomatic: Fluid Simulation](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/)
  - [WebGL Particle Physics](http://nullprogram.com/webgl-particles/)
  - [IAmNop: Particles](http://www.iamnop.com/particles/)
- 
- # Libraries
-  - [WebCLGL](https://github.com/stormcolor/webclgl)
-  - [MathBox 2](https://gitgud.io/unconed/mathbox)
-  - [glslify](https://www.npmjs.com/package/glslify)
+
+# Libraries
+ - [WebCLGL](https://github.com/stormcolor/webclgl)
+ - [MathBox 2](https://gitgud.io/unconed/mathbox)
+ - [glslify](https://www.npmjs.com/package/glslify)
  
 # Sites
  - [GLSL Sandbox](http://glslsandbox.com/)
