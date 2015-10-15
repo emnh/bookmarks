@@ -16,3 +16,12 @@
   - [WebCLGL](https://github.com/stormcolor/webclgl)
   - [MathBox 2](https://gitgud.io/unconed/mathbox)
   - [glslify](https://www.npmjs.com/package/glslify)
+ 
+# Sites
+ - [GLSL Sandbox](http://glslsandbox.com/)
+  - [Galaxy](http://glslsandbox.com/e#28186.7)
+ - [Shadertoy](https://www.shadertoy.com/)
+  - [Furball](https://www.shadertoy.com/view/XsfGWN)
+  - [Spout: Water coming out of pipe](https://www.shadertoy.com/view/lsXGzH)
+  - [Truchet Tentacles](https://www.shadertoy.com/view/ldfGWn)
+  - [Noise Blur: Hair / Fur](https://www.shadertoy.com/view/4dlGDN)
