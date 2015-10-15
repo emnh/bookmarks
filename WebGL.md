@@ -58,3 +58,4 @@
   - [Noxious Box](https://www.shadertoy.com/view/4sl3DB)
   - [Galaxy](https://www.shadertoy.com/view/MdXSzS)
   - [Pyroclastic Explosion](https://www.shadertoy.com/view/XdfGz8)
+  - [Ether](https://www.shadertoy.com/view/MsjSW3)
