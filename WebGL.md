@@ -60,3 +60,4 @@
   - [Pyroclastic Explosion](https://www.shadertoy.com/view/XdfGz8)
   - [Ether](https://www.shadertoy.com/view/MsjSW3)
   - [I/O](https://www.shadertoy.com/view/XsfGDS)
+ - [WebGLPlayground](http://webglplayground.net/gallery)
