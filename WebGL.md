@@ -11,6 +11,7 @@
  - [Haxiomatic: Fluid Simulation](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/)
  - [WebGL Particle Physics](http://nullprogram.com/webgl-particles/)
  - [IAmNop: Particles](http://www.iamnop.com/particles/)
+ - [Fireworks](http://charliehoey.com/threejs-demos/gpu-particle-fireworks.php)
 
 # Libraries
  - [WebCLGL](https://github.com/stormcolor/webclgl)
