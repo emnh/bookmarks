@@ -61,3 +61,4 @@
   - [Ether](https://www.shadertoy.com/view/MsjSW3)
   - [I/O](https://www.shadertoy.com/view/XsfGDS)
  - [WebGLPlayground](http://webglplayground.net/gallery)
+ - [Felix Woitzel: Presentation with link to many demos](http://cake23.de/1c2/)
