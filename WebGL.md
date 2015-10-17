@@ -17,6 +17,11 @@
  - [WebCLGL](https://github.com/stormcolor/webclgl)
  - [MathBox 2](https://gitgud.io/unconed/mathbox)
  - [glslify](https://www.npmjs.com/package/glslify)
+
+# Games
+ - [Istrolid: Space Strategy](http://www.istrolid.com/)
+ - [Keep Out: Dungeon Crawler](http://www.playkeepout.com/)
+ - [Polycraft: Long Term Strategy](https://ga.me/games/polycraft)
  
 # Sites
  - [GLSL Sandbox](http://glslsandbox.com/) [at page](http://glslsandbox.com/?page=123)
