@@ -68,6 +68,13 @@
  - [Bayonetta (2010)](https://en.wikipedia.org/wiki/Bayonetta)
  - [Mass Effect 3 (2012)](https://en.wikipedia.org/wiki/Mass_Effect_3)
  - [The Witcher 3: Wild Hunt (2015)](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
+
+# Nintendo games
+ - Super Mario Bros 1/2/3
+ - Duck Hunt
+ - Castlevania 2
+ - Mega Man 2
+ - Snake Rattle n Roll
  
 # TODO if bored
  - Add links to YouTube videos.
