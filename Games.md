@@ -1,4 +1,5 @@
 # List of good games I played
+ - [Tetris (1986)](https://en.wikipedia.org/wiki/Tetris)
  - [Mixed-Up Mother Goose (1987)](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose)
  - [SimCity (1989)](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
  - [Ski or Die (1990)](https://en.wikipedia.org/wiki/Ski_or_Die)
