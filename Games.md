@@ -32,6 +32,7 @@
  - [Grim Fandango (1998)](https://en.wikipedia.org/wiki/Grim_Fandango)
  - [Half-Life (1998)](https://en.wikipedia.org/wiki/Half-Life_(video_game))
  - [Jump 'n Bump (1998)](https://en.wikipedia.org/wiki/Jump_%27n_Bump)
+ - [Liquid War (1998)](https://en.wikipedia.org/wiki/Liquid_War)
  - [Populous: The Beginning (1998)](https://en.wikipedia.org/wiki/Populous:_The_Beginning)
  - [Fallout 2 (1998)](https://en.wikipedia.org/wiki/Fallout_2)
  - [StarCraft (1998)](https://en.wikipedia.org/wiki/StarCraft)
