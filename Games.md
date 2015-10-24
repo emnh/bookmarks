@@ -1,6 +1,7 @@
 # List of good games I played
  - [Tetris (1986)](https://en.wikipedia.org/wiki/Tetris)
  - [Mixed-Up Mother Goose (1987)](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose)
+ - [Prince of Persia (1989)](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game))
  - [SimCity (1989)](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
  - [Ski or Die (1990)](https://en.wikipedia.org/wiki/Ski_or_Die)
  - [Populous II (1991)](https://en.wikipedia.org/wiki/Populous_II:_Trials_of_the_Olympian_Gods)
@@ -37,7 +38,9 @@
  - [Counter Strike (1999)](https://en.wikipedia.org/wiki/Counter-Strike)
  - [Grand Theft Auto 2 (1999)](https://en.wikipedia.org/wiki/Grand_Theft_Auto_2)
  - [Quake III Arena (1999)](https://en.wikipedia.org/wiki/Quake_III_Arena)
+ - [Unreal Tournament (1999)](https://en.wikipedia.org/wiki/Unreal_Tournament)
  - [Diablo II (2000)](https://en.wikipedia.org/wiki/Diablo_II)
+ - [Uplink (2001)](https://en.wikipedia.org/wiki/Uplink_(video_game))
  - [Enemy Territory (2003)](https://en.wikipedia.org/wiki/Wolfenstein:_Enemy_Territory)
  - [Half-Life 2 (2004)](https://en.wikipedia.org/wiki/Half-Life_2)
  - [Black & White 2 (2005)](https://en.wikipedia.org/wiki/Black_%26_White_2)
@@ -47,8 +50,10 @@
  - [Borderlands (2009)](https://en.wikipedia.org/wiki/Borderlands_(video_game))
  - [Plants vs. Zombies (2009)](https://en.wikipedia.org/wiki/Plants_vs._Zombies)
  - [The Secret of Monkey Island: Special Edition (2009)](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)
+ - [Torchlight (2009)](https://en.wikipedia.org/wiki/Torchlight)
  - [DmC: Devil May Cry (2010)](https://en.wikipedia.org/wiki/DmC:_Devil_May_Cry)
  - [StarCraft II: Wings of Liberty (2010)](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty)
+ - [Bloons TD 5 (2011)](https://en.wikipedia.org/wiki/Bloons_Tower_Defense#Bloons_TD_5)
  - [Mass Effect 2 (2011)](https://en.wikipedia.org/wiki/Mass_Effect_2)
  - [Portal 2 (2011)](https://en.wikipedia.org/wiki/Portal_2)
  - [Borderlands 2 (2012)](https://en.wikipedia.org/wiki/Borderlands_2)
@@ -62,13 +67,17 @@
  - [Syndicate (1993)](https://en.wikipedia.org/wiki/Syndicate_(series))
  - [Dark Reign: The Future of War (1997)](https://en.wikipedia.org/wiki/Dark_Reign:_The_Future_of_War)
  - [Defense Grid 2 (2014)](https://en.wikipedia.org/wiki/Defense_Grid_2)
+ - [Prince of Persia: The Forgotten Sands (2010)](https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Forgotten_Sands)
+ - [Kingdom Rush (2011)](https://en.wikipedia.org/wiki/Kingdom_Rush)
 
 # Did not play (yet)
  - [The Longest Journey (1999)](https://en.wikipedia.org/wiki/The_Longest_Journey)
  - [Dreamfall: The Longest Journey (2006)](https://en.wikipedia.org/wiki/Dreamfall:_The_Longest_Journey)
  - [Bayonetta (2010)](https://en.wikipedia.org/wiki/Bayonetta)
+ - [Just Cause 2 (2010)](https://en.wikipedia.org/wiki/Just_Cause_2)
  - [Mass Effect 3 (2012)](https://en.wikipedia.org/wiki/Mass_Effect_3)
  - [The Witcher 3: Wild Hunt (2015)](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
+ - [Just Cause 3 (2015)](https://en.wikipedia.org/wiki/Just_Cause_3)
 
 # Nintendo games
  - Super Mario Bros 1/2/3
