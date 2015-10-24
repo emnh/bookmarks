@@ -44,6 +44,7 @@
  - [Enemy Territory (2003)](https://en.wikipedia.org/wiki/Wolfenstein:_Enemy_Territory)
  - [Half-Life 2 (2004)](https://en.wikipedia.org/wiki/Half-Life_2)
  - [Black & White 2 (2005)](https://en.wikipedia.org/wiki/Black_%26_White_2)
+ - [The Elder Scrolls IV: Oblivion (2006)](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion)
  - [Crysis (2007)](https://en.wikipedia.org/wiki/Crysis)
  - [Half-Life 2: Episode Two (2007)](https://en.wikipedia.org/wiki/Half-Life_2:_Episode_Two)
  - [Fallout 3 (2008)](https://en.wikipedia.org/wiki/Fallout_3)
@@ -56,12 +57,14 @@
  - [Bloons TD 5 (2011)](https://en.wikipedia.org/wiki/Bloons_Tower_Defense#Bloons_TD_5)
  - [Mass Effect 2 (2011)](https://en.wikipedia.org/wiki/Mass_Effect_2)
  - [Portal 2 (2011)](https://en.wikipedia.org/wiki/Portal_2)
+ - [The Elder Scrolls V: Skyrim (2011)](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim)
  - [Borderlands 2 (2012)](https://en.wikipedia.org/wiki/Borderlands_2)
  - [Diablo III (2012)](https://en.wikipedia.org/wiki/Diablo_III)
  - [Need for Speed: Most Wanted (2012)](https://en.wikipedia.org/wiki/Need_for_Speed:_Most_Wanted_(2012_video_game))
  - [BioShock Infinite (2013)](https://en.wikipedia.org/wiki/BioShock_Infinite)
  - [Saints Row IV (2013)](https://en.wikipedia.org/wiki/Saints_Row_IV)
  - [StarCraft II: Heart of the Swarm (2013)](https://en.wikipedia.org/wiki/StarCraft_II:_Heart_of_the_Swarm)
+ - [Mushroom 11 (2015)](https://en.wikipedia.org/wiki/Mushroom_11)
 
 # Lesser mentions
  - [Syndicate (1993)](https://en.wikipedia.org/wiki/Syndicate_(series))
@@ -77,6 +80,7 @@
  - [Just Cause 2 (2010)](https://en.wikipedia.org/wiki/Just_Cause_2)
  - [Mass Effect 3 (2012)](https://en.wikipedia.org/wiki/Mass_Effect_3)
  - [The Witcher 3: Wild Hunt (2015)](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
+ - [Trine 3: The Artifacts of Power (2015)](https://en.wikipedia.org/wiki/Trine_3:_The_Artifacts_of_Power)
  - [Just Cause 3 (2015)](https://en.wikipedia.org/wiki/Just_Cause_3)
 
 # Nintendo games
