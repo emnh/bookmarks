@@ -70,9 +70,10 @@
 # Lesser mentions
  - [Syndicate (1993)](https://en.wikipedia.org/wiki/Syndicate_(series))
  - [Dark Reign: The Future of War (1997)](https://en.wikipedia.org/wiki/Dark_Reign:_The_Future_of_War)
- - [Defense Grid 2 (2014)](https://en.wikipedia.org/wiki/Defense_Grid_2)
+ - [Warcraft III: Reign of Chaos (2002)](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos)
  - [Prince of Persia: The Forgotten Sands (2010)](https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Forgotten_Sands)
  - [Kingdom Rush (2011)](https://en.wikipedia.org/wiki/Kingdom_Rush)
+ - [Defense Grid 2 (2014)](https://en.wikipedia.org/wiki/Defense_Grid_2)
 
 # Did not play (yet)
  - [The Longest Journey (1999)](https://en.wikipedia.org/wiki/The_Longest_Journey)
