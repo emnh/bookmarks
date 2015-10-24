@@ -76,7 +76,10 @@
  - Castlevania 2
  - Mega Man 2
  - Snake Rattle n Roll
- 
+
+# PS games
+ - Tekken 3
+ - Tekken 6
+
 # TODO if bored
- - Add links to YouTube videos.
- - Do console games.
+ - Add links to YouTube videos / screenshots.
