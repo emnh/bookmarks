@@ -4,11 +4,13 @@
  - [Prince of Persia (1989)](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game))
  - [SimCity (1989)](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
  - [Ski or Die (1990)](https://en.wikipedia.org/wiki/Ski_or_Die)
+ - [Lemmings (1991)](https://en.wikipedia.org/wiki/Lemmings_(video_game))
  - [Populous II (1991)](https://en.wikipedia.org/wiki/Populous_II:_Trials_of_the_Olympian_Gods)
  - [Scorched Earth (1991)](https://en.wikipedia.org/wiki/Scorched_Earth_(video_game))
  - [Dune (1992)](https://en.wikipedia.org/wiki/Dune_(video_game))
  - [Dune 2 (1992)](https://en.wikipedia.org/wiki/Dune_II)
  - [Indiana Jones and the Fate of Atlantis (1992)](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Fate_of_Atlantis)
+ - [Overkill (1992)](https://en.wikipedia.org/wiki/Overkill_(video_game))
  - [The Incredible Machine (1993)](https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)#The_Incredible_Machine)
  - [The Journeyman Project (1993)](https://en.wikipedia.org/wiki/The_Journeyman_Project)
  - [Colonization (1994)](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization)
@@ -38,6 +40,7 @@
  - [Fallout 2 (1998)](https://en.wikipedia.org/wiki/Fallout_2)
  - [StarCraft (1998)](https://en.wikipedia.org/wiki/StarCraft)
  - [Counter Strike (1999)](https://en.wikipedia.org/wiki/Counter-Strike)
+ - [Dungeon Keeper 2 (1999)](https://en.wikipedia.org/wiki/Dungeon_Keeper_2)
  - [Grand Theft Auto 2 (1999)](https://en.wikipedia.org/wiki/Grand_Theft_Auto_2)
  - [Quake III Arena (1999)](https://en.wikipedia.org/wiki/Quake_III_Arena)
  - [Unreal Tournament (1999)](https://en.wikipedia.org/wiki/Unreal_Tournament)
@@ -77,6 +80,7 @@
  - [Defense Grid 2 (2014)](https://en.wikipedia.org/wiki/Defense_Grid_2)
 
 # Did not play (yet)
+ - [Day of the Tentacle (1993)](https://en.wikipedia.org/wiki/Day_of_the_Tentacle)
  - [The Longest Journey (1999)](https://en.wikipedia.org/wiki/The_Longest_Journey)
  - [Dreamfall: The Longest Journey (2006)](https://en.wikipedia.org/wiki/Dreamfall:_The_Longest_Journey)
  - [Bayonetta (2010)](https://en.wikipedia.org/wiki/Bayonetta)
@@ -93,6 +97,9 @@
  - Mega Man 2
  - Snake Rattle n Roll
 
+# Sega games
+ - Sonic the Hedgehog
+ 
 # PS games
  - Tekken 3
  - Tekken 6
