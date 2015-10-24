@@ -10,6 +10,7 @@
  - [Dune 2 (1992)](https://en.wikipedia.org/wiki/Dune_II)
  - [Indiana Jones and the Fate of Atlantis (1992)](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Fate_of_Atlantis)
  - [The Incredible Machine (1993)](https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)#The_Incredible_Machine)
+ - [The Journeyman Project (1993)](https://en.wikipedia.org/wiki/The_Journeyman_Project)
  - [Colonization (1994)](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization)
  - [One Must Fall: 2097 (1994)](https://en.wikipedia.org/wiki/One_Must_Fall:_2097)
  - [Little Big Adventure (1994)](https://en.wikipedia.org/wiki/Little_Big_Adventure)
