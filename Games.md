@@ -75,6 +75,7 @@
  - [BioShock Infinite (2013)](https://en.wikipedia.org/wiki/BioShock_Infinite)
  - [Saints Row IV (2013)](https://en.wikipedia.org/wiki/Saints_Row_IV)
  - [StarCraft II: Heart of the Swarm (2013)](https://en.wikipedia.org/wiki/StarCraft_II:_Heart_of_the_Swarm)
+ - [Hearthstone: Heroes of Warcraft (2014)](https://en.wikipedia.org/wiki/Hearthstone:_Heroes_of_Warcraft)
  - [Mushroom 11 (2015)](https://en.wikipedia.org/wiki/Mushroom_11)
  - [The Witcher 3: Wild Hunt (2015)](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
 
