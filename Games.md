@@ -76,6 +76,7 @@
  - [Saints Row IV (2013)](https://en.wikipedia.org/wiki/Saints_Row_IV)
  - [StarCraft II: Heart of the Swarm (2013)](https://en.wikipedia.org/wiki/StarCraft_II:_Heart_of_the_Swarm)
  - [Mushroom 11 (2015)](https://en.wikipedia.org/wiki/Mushroom_11)
+ - [The Witcher 3: Wild Hunt (2015)](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
 
 # Lesser mentions
  - [Syndicate (1993)](https://en.wikipedia.org/wiki/Syndicate_(series))
@@ -92,7 +93,6 @@
  - [Bayonetta (2010)](https://en.wikipedia.org/wiki/Bayonetta)
  - [Just Cause 2 (2010)](https://en.wikipedia.org/wiki/Just_Cause_2)
  - [Mass Effect 3 (2012)](https://en.wikipedia.org/wiki/Mass_Effect_3)
- - [The Witcher 3: Wild Hunt (2015)](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
  - [Trine 3: The Artifacts of Power (2015)](https://en.wikipedia.org/wiki/Trine_3:_The_Artifacts_of_Power)
  - [Just Cause 3 (2015)](https://en.wikipedia.org/wiki/Just_Cause_3)
 
