@@ -88,7 +88,9 @@
  - [Defense Grid 2 (2014)](https://en.wikipedia.org/wiki/Defense_Grid_2)
 
 # Did not play (yet)
+ - [The Legend of Zelda (1986)](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
  - [Day of the Tentacle (1993)](https://en.wikipedia.org/wiki/Day_of_the_Tentacle)
+ - [Duke Nukem 3D (1996)](https://en.wikipedia.org/wiki/Duke_Nukem_3D)
  - [The Longest Journey (1999)](https://en.wikipedia.org/wiki/The_Longest_Journey)
  - [Dreamfall: The Longest Journey (2006)](https://en.wikipedia.org/wiki/Dreamfall:_The_Longest_Journey)
  - [Bayonetta (2010)](https://en.wikipedia.org/wiki/Bayonetta)
@@ -103,6 +105,7 @@
  - Castlevania 2
  - Mega Man 2
  - Snake Rattle n Roll
+ 
 
 # Sega games
  - Sonic the Hedgehog
