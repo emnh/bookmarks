@@ -13,6 +13,7 @@
  - [IAmNop: Particles](http://www.iamnop.com/particles/)
  - [Fireworks](http://charliehoey.com/threejs-demos/gpu-particle-fireworks.php)
  - [Hair Simulation](http://www.blancoberg.com/hair/)
+ - [Furball Hair Dryer](http://www.theoberg.com/things/furball/)
 
 # Libraries
  - [WebCLGL](https://github.com/stormcolor/webclgl)
