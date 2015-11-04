@@ -12,6 +12,7 @@
  - [WebGL Particle Physics](http://nullprogram.com/webgl-particles/)
  - [IAmNop: Particles](http://www.iamnop.com/particles/)
  - [Fireworks](http://charliehoey.com/threejs-demos/gpu-particle-fireworks.php)
+ - [Hair Simulation](http://www.blancoberg.com/hair/)
 
 # Libraries
  - [WebCLGL](https://github.com/stormcolor/webclgl)
