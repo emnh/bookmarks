@@ -1,8 +1,10 @@
 # List of good games I played
  - [Tetris (1986)](https://en.wikipedia.org/wiki/Tetris)
  - [Mixed-Up Mother Goose (1987)](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose)
+ - [North and South (1989)](https://en.wikipedia.org/wiki/North_%26_South_(video_game))
  - [Prince of Persia (1989)](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game))
  - [SimCity (1989)](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
+ - [Centurion : Defender of Rome (1990)](https://en.wikipedia.org/wiki/Centurion:_Defender_of_Rome)
  - [Colorado (1990)](https://www.youtube.com/watch?v=Ksqbo17Wykk)
  - [Jones in the Fast Lane (1990)](https://en.wikipedia.org/wiki/Jones_in_the_Fast_Lane)
  - [Ports of Call (1990)](https://de.wikipedia.org/wiki/Ports_of_Call)
