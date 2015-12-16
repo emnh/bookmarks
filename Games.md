@@ -84,6 +84,8 @@
  - [The Witcher 3: Wild Hunt (2015)](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
 
 # Lesser mentions
+ - [Chefren's Pyramid (19xx)](http://www.alega.se/english/pyramidmath/Chefrens_Pyramid/chefrens_pyramid.html)
+ - [Cheops' Pyramid (19xx)](http://www.alega.se/english/pyramidmath/Cheops_Pyramid/cheops_pyramid.html)
  - [Syndicate (1993)](https://en.wikipedia.org/wiki/Syndicate_(series))
  - [Dark Reign: The Future of War (1997)](https://en.wikipedia.org/wiki/Dark_Reign:_The_Future_of_War)
  - [Warcraft III: Reign of Chaos (2002)](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos)
