@@ -3,6 +3,7 @@
  - [Mixed-Up Mother Goose (1987)](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose)
  - [Prince of Persia (1989)](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game))
  - [SimCity (1989)](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
+ - [Colorado (1990)](https://www.youtube.com/watch?v=Ksqbo17Wykk)
  - [Jones in the Fast Lane (1990)](https://en.wikipedia.org/wiki/Jones_in_the_Fast_Lane)
  - [Ports of Call (1990)](https://de.wikipedia.org/wiki/Ports_of_Call)
  - [Ski or Die (1990)](https://en.wikipedia.org/wiki/Ski_or_Die)
