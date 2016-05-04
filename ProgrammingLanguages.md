@@ -20,3 +20,8 @@
  - [component](https://github.com/stuartsierra/component)
  - [schema](https://github.com/plumatic/schema)
  - [delimc](https://github.com/swannodette/delimc)
+
+# JavaScript
+
+## Libraries
+ - [GPU.js - compile js kernel to GLSL with fallback to js](http://gpu.rocks/)
