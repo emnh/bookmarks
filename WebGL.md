@@ -15,6 +15,7 @@
  - [Hair Simulation](http://www.blancoberg.com/hair/)
  - [Furball Hair Dryer](http://www.theoberg.com/things/furball/)
  - [Particle Develop](http://ics-web.jp/projects/particle-develop/)
+ - [Fluid Simulation Explained](http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/)
 
 # Libraries
  - [WebCLGL](https://github.com/stormcolor/webclgl)
