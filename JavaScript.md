@@ -47,3 +47,4 @@ What brings the greatest productivity?
 Should I trade off longer compilation time for static typing and IDE support?
 Both C# and F# have compiler API, so it is possible to bolt on something like macros if I need it.
 Or should I go back to plain JavaScript to avoid compilation time and use more rigorous components with functional programming?
+Maybe I will investigate ClojureScript IDE support with Cursive and stick with it.
