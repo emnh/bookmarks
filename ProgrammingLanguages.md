@@ -7,6 +7,7 @@
  - [Cheat Sheet](http://clojure.org/api/cheatsheet)
 
 ## Execute online (versions per 04.05.2016)
+ - [ClojureScript 1.9.225 @ app.klipse.tech](http://app.klipse.tech/)
  - [ClojureScript 1.8.34 @ cljsfiddle.com](http://cljsfiddle.com/)
  - [ClojureScript 1.7.45 @ clojurescript.net](http://clojurescript.net/)
  - [ClojureScript 1.7.28 @ JSBin](http://jsbin.com/)
