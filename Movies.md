@@ -5,6 +5,10 @@ Migrate list of movies from delicious.
  - [The Revenant (2015)](http://www.imdb.com/title/tt1663202/)
  - [The Wolf of Wall Street (2013)](http://www.imdb.com/title/tt0993846/)
  - [Sicario (2015)](http://www.imdb.com/title/tt3397884/)
+ - [The Lobster (2015)](http://www.imdb.com/title/tt3464902/)
+ - [Edge of Tomorrow (2014)](http://www.imdb.com/title/tt1631867/)
+ - [Inside Out (2015)](http://www.imdb.com/title/tt2096673/)
+ - [Pitch Perfect 2 (2015)](http://www.imdb.com/title/tt2848292/)
 
 # To Watch
  - [John Wick (2014)](http://www.imdb.com/title/tt2911666/)
