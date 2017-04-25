@@ -18,6 +18,7 @@
  - [Fluid Simulation Explained](http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/)
  - [SPH: Smoothed Particle Hydrodynamics](http://dev.miaumiau.cat/sph/)
  - [Volumetric Particle Flow](http://david.li/flow/)
+ - [3D Fluid Particles](http://david.li/fluid/)
 
 # Libraries
  - [WebCLGL](https://github.com/stormcolor/webclgl)
