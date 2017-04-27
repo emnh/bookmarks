@@ -78,3 +78,15 @@
  - [WebGLPlayground](http://webglplayground.net/gallery)
  - [Felix Woitzel: Presentation with link to many demos](http://cake23.de/1c2/)
  - [Vertex Shader Art](http://www.vertexshaderart.com/)
+
+# WebGL or GPGPU Links
+ - [HistoPyramid Talk](https://folk.uio.no/erikd/histo/hpmarchertalk.pdf)
+ - [GPU Point List Generation through HistogramPyramids](http://pubman.mpdl.mpg.de/pubman/item/escidoc:1819167:4/component/escidoc:1840866/MPI-I-2006-4-002.pdf)
+ - [Stream Compaction in WebGL](http://www.miaumiau.cat/2016/10/stream-compaction-in-webgl/)
+ - [NVidia: Thinking Parallel, Part II: Tree Traversal on the GPU](https://devblogs.nvidia.com/parallelforall/thinking-parallel-part-ii-tree-traversal-gpu/)
+ - [NVidia: Thinking Parallel, Part III: Tree Construction on the GPU](https://devblogs.nvidia.com/parallelforall/thinking-parallel-part-iii-tree-construction-gpu/)
+ - [Introduction to GPU Radix Sort](http://www.heterogeneouscompute.org/wordpress/wp-content/uploads/2011/06/RadixSort.pdf)
+ - [Vague about Histopyramid Sort](http://heim.ifi.uio.no/~erikd/pdf/topofix_draft.pdf)
+ - [Efficient Stack-less BVH Traversal for Ray Tracing](https://graphics.cg.uni-saarland.de/fileadmin/cguds/papers/2011/hapala_sccg2011/hapala_sccg2011.pdf)
+ - [Space Partitioning: Kd-Tree – using WebGL](http://thomasdiewald.com/blog/?p=1825)
+ - [BVH Accelerated Shading](https://worldoffries.wordpress.com/tag/shader/)
