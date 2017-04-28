@@ -19,6 +19,7 @@
  - [SPH: Smoothed Particle Hydrodynamics](http://dev.miaumiau.cat/sph/)
  - [Volumetric Particle Flow](http://david.li/flow/)
  - [3D Fluid Particles](http://david.li/fluid/)
+ - [WebGL Fur](https://keaukraine.github.io/webgl-fur/)
 
 # Libraries
  - [WebCLGL](https://github.com/stormcolor/webclgl)
