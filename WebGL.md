@@ -91,3 +91,4 @@
  - [Efficient Stack-less BVH Traversal for Ray Tracing](https://graphics.cg.uni-saarland.de/fileadmin/cguds/papers/2011/hapala_sccg2011/hapala_sccg2011.pdf)
  - [Space Partitioning: Kd-Tree – using WebGL](http://thomasdiewald.com/blog/?p=1825)
  - [BVH Accelerated Shading](https://worldoffries.wordpress.com/tag/shader/)
+ - [WebGL Unified Particle System](https://github.com/leerichard42/WebGL-Unified-Particle-System): More or less a physics engine running on GPU using WebGL. Based on [GPU Gem: Real-Time Rigid Body Simulation on GPUs](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch29.html).
