@@ -32,9 +32,9 @@
  - [Polycraft: Long Term Strategy](https://ga.me/games/polycraft)
  
 # Sites
- - [David Li](http://david.li/)
- - [9 More Mind-Blowing WebGL Demos](http://davidwalsh.name/webgl-demo)
- - [GLSL Sandbox](http://glslsandbox.com/) [at page](http://glslsandbox.com/?page=123)
+- [David Li](http://david.li/)
+- [9 More Mind-Blowing WebGL Demos](http://davidwalsh.name/webgl-demo)
+- [GLSL Sandbox](http://glslsandbox.com/) [at page](http://glslsandbox.com/?page=123)
   - [Galaxy](http://glslsandbox.com/e#28186.7)
   - [Strange Sphere](http://glslsandbox.com/e#28150.0)
   - [Fire](http://glslsandbox.com/e#27806.0)
@@ -61,7 +61,7 @@
   - [Colored Waves](http://glslsandbox.com/e#22754.0)
   - [Nyan Cat Fractal Land](http://glslsandbox.com/e#14742.0)
   - [Galaxy 3](http://glslsandbox.com/e#22662.0)
- - [Shadertoy](https://www.shadertoy.com/) [at page](https://www.shadertoy.com/results?query=&sort=popular&from=192&num=12)
+- [Shadertoy](https://www.shadertoy.com/) [at page](https://www.shadertoy.com/results?query=&sort=popular&from=192&num=12)
   - [Furball](https://www.shadertoy.com/view/XsfGWN)
   - [Spout: Water coming out of pipe](https://www.shadertoy.com/view/lsXGzH)
   - [Truchet Tentacles](https://www.shadertoy.com/view/ldfGWn)
@@ -76,9 +76,9 @@
   - [Pyroclastic Explosion](https://www.shadertoy.com/view/XdfGz8)
   - [Ether](https://www.shadertoy.com/view/MsjSW3)
   - [I/O](https://www.shadertoy.com/view/XsfGDS)
- - [WebGLPlayground](http://webglplayground.net/gallery)
- - [Felix Woitzel: Presentation with link to many demos](http://cake23.de/1c2/)
- - [Vertex Shader Art](http://www.vertexshaderart.com/)
+- [WebGLPlayground](http://webglplayground.net/gallery)
+- [Felix Woitzel: Presentation with link to many demos](http://cake23.de/1c2/)
+- [Vertex Shader Art](http://www.vertexshaderart.com/)
 
 # WebGL or GPGPU Links
  - [HistoPyramid Talk](https://folk.uio.no/erikd/histo/hpmarchertalk.pdf)
