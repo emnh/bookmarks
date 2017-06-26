@@ -20,6 +20,7 @@
  - [Volumetric Particle Flow](http://david.li/flow/)
  - [3D Fluid Particles](http://david.li/fluid/)
  - [WebGL Fur](https://keaukraine.github.io/webgl-fur/)
+ - [Marching Neural Network](https://arogozhnikov.github.io/3d_nn/)
 
 # Libraries
  - [WebCLGL](https://github.com/stormcolor/webclgl)
