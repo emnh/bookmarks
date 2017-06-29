@@ -29,7 +29,10 @@ graphs and chordal bipartite graphs is #P-complete".
  - [Counting Linear Extensions: Parameterizations by
 Treewidth](http://drops.dagstuhl.de/opus/volltexte/2016/6390/pdf/LIPIcs-ESA-2016-39.pdf)
    - A #P-Complete problem that can be solved by FPT using threewidth.
-
+ - [On the Analysis of Independent Sets via Multilevel Splitting (2016)](https://people.smp.uq.edu.au/RadislavVaisman/papers/IndependentSetsSplitting.pdf)
+   - Approximation algorithm for #MIS.
+   - [Talk](https://people.smp.uq.edu.au/RadislavVaisman/Talks/is-splitting.pdf)
+ 
 ## Miscellaneous Techniques
  - [Inclusion-Exclusion Principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
  - [Inclusion–Exclusion Algorithms for Counting Set Partitions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.1018&rep=rep1&type=pdf)
