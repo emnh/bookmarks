@@ -14,11 +14,21 @@ Counting number of unions of neighbourhoods in a bipartite graph is equivalent t
 
  - [The Independent Domination Polynomial (2016)](https://arxiv.org/pdf/1602.08250.pdf)
  - [Wikipedia: #P-Complete](https://en.wikipedia.org/wiki/Sharp-P-complete)
-   - Question: Is counting MIS #P-complete? Even in bipartite graphs? I am guessing yes.
-   - Can we reduce #MIS to a #P-complete problem which has an FPTAS? Perhaps DNF?
+   - From Sadia's Dr. Thesis: It is known that counting MISs is #P-hard even for planar bipartite graphs [50] and designing an approximation algorithm for this problem is also intricate [51, 52].
+     - [50]: [The Complexity of Counting in Sparse, Regular, and Planar Graphs](http://epubs.siam.org/doi/abs/10.1137/S0097539797321602)
+     - [51]: [J. Radhakrishnan M. M. Halldorsson. Improved approximation of independent sets in bounded-degree graphs via subgraph removal. Nordic Journal of Computing, 1:475–492, 1994.](https://pdfs.semanticscholar.org/87c3/3c65a183ecdcf362f1d42d28169b092afaad.pdf)
+     - [52]: [T. Matsui. Approximation algorithms for maximum independent set problems and fractional coloring problems on unit disk graphs. Discrete and Computational Geometry, Springer Verlag, Lecture Notes in Computer Science, vol. 1763: 194–200, 2000.](https://link.springer.com/chapter/10.1007/978-3-540-46515-7_16)
+   - Can we get inspiration to solve #MIS by a #P-complete problem which has an FPTAS? Perhaps DNF?
    - [The DNF Counting Problem (2004)](http://www.cs.cmu.edu/afs/cs/academic/class/15859-f04/www/scribes/lec8.pdf)
  - [Improved Inapproximability Results for Counting Independent Sets in the Hard-Core Model (2012)](https://arxiv.org/pdf/1105.5131.pdf)
  - [On Counting Cliques, Clique-covers and Independent sets in Random Graphs (2015)](https://arxiv.org/pdf/1411.6673.pdf)
+ - [Dominating Set Counting in Graph Classes (2011)](http://dopal.cs.uec.ac.jp/okamotoy/PDF/2011/DS.pdf)
+   - "On the other hand, we prove that counting the number of dominating sets (and minimum dominating sets) in split
+graphs and chordal bipartite graphs is #P-complete".
+ - [The Complexity of Counting Cuts and of Computing the Probability that a Graph is Connected (1983)](http://epubs.siam.org/doi/abs/10.1137/0212053)
+ - [Counting Linear Extensions: Parameterizations by
+Treewidth](http://drops.dagstuhl.de/opus/volltexte/2016/6390/pdf/LIPIcs-ESA-2016-39.pdf)
+   - A #P-Complete problem that can be solved by FPT using threewidth.
 
 ## Miscellaneous Techniques
  - [Inclusion-Exclusion Principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
