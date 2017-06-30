@@ -32,6 +32,7 @@ Treewidth](http://drops.dagstuhl.de/opus/volltexte/2016/6390/pdf/LIPIcs-ESA-2016
  - [On the Analysis of Independent Sets via Multilevel Splitting (2016)](https://people.smp.uq.edu.au/RadislavVaisman/papers/IndependentSetsSplitting.pdf)
    - Approximation algorithm for #MIS.
    - [Talk](https://people.smp.uq.edu.au/RadislavVaisman/Talks/is-splitting.pdf)
+ - [Knuth: Estimating the efficiency of backtrack programs](https://pdfs.semanticscholar.org/96b4/4e128bc9ef19160b6f6ccf39c4f71f04b96c.pdf)
  
 ## Miscellaneous Techniques
  - [Inclusion-Exclusion Principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
