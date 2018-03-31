@@ -15,7 +15,7 @@
  - Rust (just read the book so far)
  - C# (work at Microsoft / assembly reverse engineering project)
  - PowerShell (work at Microsoft)
- - Bash (various small scripts, toy linux distribution I made in high school based on LFS)
+ - Bash + sed/awk/... (various small scripts, toy linux distribution I made in high school based on LFS)
  - F# (codingame bot)
  - TypeScript (various codingame visualizations / replay tools)
  - ActionScript (small cheat bot for online game)
