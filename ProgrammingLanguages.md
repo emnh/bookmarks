@@ -1,4 +1,35 @@
 
+# Languages I've tried and my significant projects in that language
+ - C (kd-tree for freedb)
+ - C++ (codingame bots)
+ - Python (namingmuse: mp3 renamer, many scripts)
+ - Java (master thesis)
+ - Clojure (master thesis)
+ - Scala (master thesis)
+ - JavaScript (web rts game 1)
+ - ClojureScript (web rts game 2)
+ - ReasonML / OCaml (web rts game 3)
+ - Perl (various scripts (I think a prelude to namingmuse))
+ - PHP (IAESTE IXS2)
+ - Rust (just read the book so far)
+ - C# (work at Microsoft / assembly reverse engineering project)
+ - PowerShell (work at Microsoft)
+ - Bash (various small scripts, toy linux distribution I made in high school based on LFS)
+ - F# (codingame bot)
+ - TypeScript (various codingame visualizations / replay tools) 
+
+My favourites are static functional languages with global type inference. My newest projects are in ReasonML.
+
+# Languages worth mentioning (that I might try some day)
+ - Haskell (type adventures)
+ - Go (channels and concurrency)
+ - Kotlin (a better Java)
+ - Lua (in-game scripting)
+ - ObjectiveC (app development)
+ - Ruby (code golf)
+ - Swift (idk, for fun?)
+ - Groovy (idk, for fun?)
+
 # Python
 
  - [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
