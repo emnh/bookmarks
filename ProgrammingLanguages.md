@@ -23,6 +23,7 @@
  - GLSL ES (webgl shader language)
  - Matlab (university exercises)
  - Mathematica (just a few formulae for use in other projects)
+ - Prolog (the hardest language, only a few university exercises)
 
 My favourites are static functional languages with global type inference. My newest projects are in ReasonML.
 
