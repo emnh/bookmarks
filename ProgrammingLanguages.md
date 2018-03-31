@@ -30,6 +30,12 @@ My favourites are static functional languages with global type inference. My new
  - Swift (idk, for fun?)
  - Groovy (idk, for fun?)
 
+# Markup Languages and associates I know
+ - HTML
+ - XML
+ - XSLT
+ - Markdown
+
 # Python
 
  - [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
