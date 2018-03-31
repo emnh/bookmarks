@@ -20,6 +20,7 @@
  - TypeScript (various codingame visualizations / replay tools)
  - ActionScript (small cheat bot for online game)
  - Visual Basic 6 (my first language to which I'll never return)
+ - GLSL ES (webgl shader language)
 
 My favourites are static functional languages with global type inference. My newest projects are in ReasonML.
 
