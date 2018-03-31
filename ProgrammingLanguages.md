@@ -1,5 +1,6 @@
 
 # Languages I've tried and my significant projects in that language
+ - x86 ASM (various experiments and university assistant teachings)
  - C (kd-tree for freedb)
  - C++ (codingame bots)
  - Python (namingmuse: mp3 renamer, many scripts)
