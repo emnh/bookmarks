@@ -17,7 +17,8 @@
  - PowerShell (work at Microsoft)
  - Bash (various small scripts, toy linux distribution I made in high school based on LFS)
  - F# (codingame bot)
- - TypeScript (various codingame visualizations / replay tools) 
+ - TypeScript (various codingame visualizations / replay tools)
+ - ActionScript (small cheat bot for online game)
 
 My favourites are static functional languages with global type inference. My newest projects are in ReasonML.
 
