@@ -19,6 +19,7 @@
  - F# (codingame bot)
  - TypeScript (various codingame visualizations / replay tools)
  - ActionScript (small cheat bot for online game)
+ - Visual Basic (my first language to which I'll never return)
 
 My favourites are static functional languages with global type inference. My newest projects are in ReasonML.
 
