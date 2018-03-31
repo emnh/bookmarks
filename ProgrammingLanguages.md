@@ -43,6 +43,7 @@ My favourites are static functional languages with global type inference. My new
  - XML
  - XSLT
  - Markdown
+ - LaTeX
 
 # Python
 
