@@ -36,6 +36,7 @@ My favourites are static functional languages with global type inference. My new
  - Ruby (code golf)
  - Elixir (concurrency)
  - Elm (web paradigm)
+ - Typed Racket (to see if lisp can survive static?)
  - D (idk, for fun?)
  - Nim (idk, for fun?)
  - Swift (idk, for fun?)
