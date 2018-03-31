@@ -30,6 +30,9 @@ My favourites are static functional languages with global type inference. My new
  - Lua (in-game scripting)
  - ObjectiveC (app development)
  - Ruby (code golf)
+ - Elixir (concurrency)
+ - D (idk, for fun?)
+ - Nim (idk, for fun?)
  - Swift (idk, for fun?)
  - Groovy (idk, for fun?)
 
