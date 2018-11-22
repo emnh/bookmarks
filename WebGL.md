@@ -82,6 +82,7 @@
 - [WebGLPlayground](http://webglplayground.net/gallery)
 - [Felix Woitzel: Presentation with link to many demos](http://cake23.de/1c2/)
 - [Vertex Shader Art](http://www.vertexshaderart.com/)
+- [Shader Disassembly](http://shader-playground.timjones.io/)
 
 # WebGL or GPGPU Links
  - [HistoPyramid Talk](https://folk.uio.no/erikd/histo/hpmarchertalk.pdf)
