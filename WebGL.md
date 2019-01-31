@@ -1,4 +1,5 @@
 # Cool WebGL Shaders (mostly GPGPU, particles)
+ - [Simulating blobs of fluid](https://peeke.nl/simulating-blobs-of-fluid)
  - [Traveling Wavefronts](http://www.cake23.de/traveling-wavefronts-lit-up.html)
   - Use as "creep" in my game
  - [Evan Wallace: Realistic Water](http://madebyevan.com/webgl-water/)
@@ -97,3 +98,6 @@
  - [Space Partitioning: Kd-Tree – using WebGL](http://thomasdiewald.com/blog/?p=1825)
  - [BVH Accelerated Shading](https://worldoffries.wordpress.com/tag/shader/)
  - [WebGL Unified Particle System](https://github.com/leerichard42/WebGL-Unified-Particle-System): More or less a physics engine running on GPU using WebGL. Based on [GPU Gem: Real-Time Rigid Body Simulation on GPUs](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch29.html).
+
+# Other tricks
+ - [Fast Unit Vector Calculation for 2D Games](https://www.h3xed.com/programming/fast-unit-vector-calculation-for-2d-games)
