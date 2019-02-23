@@ -16,8 +16,9 @@
  - GPU sim (HEAVY!): http://emh.lart.no/publish/csb/tsweb/
  - Screenshot of the above (probability field of pod): http://emh.lart.no/publish/csb/prob.png
  - Replay tool: http://emh.lart.no/publish/csb/web/csb.html
- - Cookie Monster CSB Replay (HEAVY?): http://emh.lart.no/publish/csb/fast/csb.html
- - Cookie Monster CSB Replay with stars (HEAVY?): http://emh.lart.no/publish/csb/dev/csb.html
+ - Cookie Monster CSB Replay (HEAVY?): http://emh.lart.no/publish/csb/csb.html
+ - Cookie Monster CSB Replay (HEAVY?) "fast" version: http://emh.lart.no/publish/csb/fast/csb.html
+ - Cookie Monster CSB Replay (HEAVY?) dev version: http://emh.lart.no/publish/csb/dev/csb.html
  - Replace "dev" by "NSFW" in the previous link and you will see something you cannot unsee...!
 
 # General
