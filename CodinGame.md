@@ -7,6 +7,7 @@
  - CG Benchmark: https://github.com/s-vivien/CGBenchmark
  - CGSpunk: https://github.com/danBhentschel/CGSpunk
  - CGSync: https://www.codingame.com/forum/t/codingame-sync-beta/614/44
+ - ParameterFiddler: https://github.com/eulerscheZahl/ParameterFiddler
 
 # CSB resources
  - CSB starter: https://github.com/Inoryy/csb-ai-starter
