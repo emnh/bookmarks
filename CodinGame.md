@@ -14,6 +14,7 @@
  - Smitsimax CPU Profile: http://emh.lart.no/publish/csb/csb.png http://emh.lart.no/publish/csb/csb.pdf
  - Smitsimax Tree: http://emh.lart.no/publish/csb/mcts.svg
  - GPU sim (HEAVY!): http://emh.lart.no/publish/csb/tsweb/
+ - Screenshot of the above (probability field of pod): http://emh.lart.no/publish/csb/prob.png
  - Replay tool: http://emh.lart.no/publish/csb/web/csb.html
  - Cookie Monster CSB Replay (HEAVY?): http://emh.lart.no/publish/csb/fast/csb.html
  - Cookie Monster CSB Replay with stars (HEAVY?): http://emh.lart.no/publish/csb/dev/csb.html
