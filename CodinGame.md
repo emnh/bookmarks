@@ -1,27 +1,6 @@
 
 # CodinGame
 
-# emh personal quick links
- - CG Stats: https://cgmulti.azke.fr/players?p=Emh
- - CG Stats CSB: http://cgstats.magusgeek.com/app/multi-coders-strike-back/emh
- - Royale Tool: http://apps.rezonux.com/codingame/?user=687d536b4e342533566e83cd9b5a799d2084851
- - CSB Profile: http://emh.lart.no/publish/csb.svg
- - CSB Doc: http://emh.lart.no/publish/csb/Coders_Strike_Back.pdf
- 
-## Random personal CSB stuff I've worked on (watch out for GPU crashing beasts):
- - (-3vel) StreamPlots: http://emh.lart.no/publish/csb/3vel/m3vel-plot.png
- - CSB Movie Maker: https://github.com/emnh/csb-movie-maker/
- - CSB Movie Maker output: http://emh.lart.no/publish/csb/movie/video.mp4 http://emh.lart.no/publish/csb/movie/video2.mp4
- - Smitsimax CPU Profile: http://emh.lart.no/publish/csb/csb.png http://emh.lart.no/publish/csb/csb.pdf
- - Smitsimax Tree: http://emh.lart.no/publish/csb/mcts.svg
- - GPU sim (HEAVY!): http://emh.lart.no/publish/csb/tsweb/
- - Screenshot of the above (probability field of pod): http://emh.lart.no/publish/csb/prob.png
- - Replay tool: http://emh.lart.no/publish/csb/web/csb.html
- - Cookie Monster CSB Replay (HEAVY?): http://emh.lart.no/publish/csb/csb.html
- - Cookie Monster CSB Replay (HEAVY?) "fast" version: http://emh.lart.no/publish/csb/fast/csb.html
- - Cookie Monster CSB Replay (HEAVY?) dev version: http://emh.lart.no/publish/csb/dev/csb.html
- - Replace "dev" by "NSFW" in the previous link and you will see something you cannot unsee...!
-
 # General
  - CG Stats (Azke): https://cgmulti.azke.fr/
  - CG Stats (Magus): http://cgstats.magusgeek.com/app
@@ -49,5 +28,24 @@
  - Map generation:
  - https://github.com/SpiritusSancti5/codinGame/blob/master/Referees/Coders%20Strike%20Back/Referee.java#L523-L538
  - https://github.com/SpiritusSancti5/codinGame/blob/master/Referees/Coders%20Strike%20Back/Referee.java#L575-L579
- 
- 
+
+# emh personal quick links
+ - CG Stats: https://cgmulti.azke.fr/players?p=Emh
+ - CG Stats CSB: http://cgstats.magusgeek.com/app/multi-coders-strike-back/emh
+ - Royale Tool: http://apps.rezonux.com/codingame/?user=687d536b4e342533566e83cd9b5a799d2084851
+ - CSB Profile: http://emh.lart.no/publish/csb.svg
+ - CSB Doc: http://emh.lart.no/publish/csb/Coders_Strike_Back.pdf
+
+## Random personal CSB stuff I've worked on (watch out for GPU crashing beasts):
+ - (-3vel) StreamPlots: http://emh.lart.no/publish/csb/3vel/m3vel-plot.png
+ - CSB Movie Maker: https://github.com/emnh/csb-movie-maker/
+ - CSB Movie Maker output: http://emh.lart.no/publish/csb/movie/video.mp4 http://emh.lart.no/publish/csb/movie/video2.mp4
+ - Smitsimax CPU Profile: http://emh.lart.no/publish/csb/csb.png http://emh.lart.no/publish/csb/csb.pdf
+ - Smitsimax Tree: http://emh.lart.no/publish/csb/mcts.svg
+ - GPU sim (HEAVY!): http://emh.lart.no/publish/csb/tsweb/
+ - Screenshot of the above (probability field of pod): http://emh.lart.no/publish/csb/prob.png
+ - Replay tool: http://emh.lart.no/publish/csb/web/csb.html
+ - Cookie Monster CSB Replay (HEAVY?): http://emh.lart.no/publish/csb/csb.html
+ - Cookie Monster CSB Replay (HEAVY?) "fast" version: http://emh.lart.no/publish/csb/fast/csb.html
+ - Cookie Monster CSB Replay (HEAVY?) dev version: http://emh.lart.no/publish/csb/dev/csb.html
+ - Replace "dev" by "NSFW" in the previous link and you will see something you cannot unsee...!
