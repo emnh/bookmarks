@@ -11,6 +11,7 @@
 ## Random personal CSB stuff I've worked on (watch out for GPU crashing beasts):
  - (-3vel) StreamPlots: http://emh.lart.no/publish/csb/3vel/m3vel-plot.png
  - CSB Movie Maker: https://github.com/emnh/csb-movie-maker/
+ - CSB Movie Maker output: http://emh.lart.no/publish/csb/movie/video.mp4 http://emh.lart.no/publish/csb/movie/video2.mp4
  - Smitsimax CPU Profile: http://emh.lart.no/publish/csb/csb.png http://emh.lart.no/publish/csb/csb.pdf
  - Smitsimax Tree: http://emh.lart.no/publish/csb/mcts.svg
  - GPU sim (HEAVY!): http://emh.lart.no/publish/csb/tsweb/
