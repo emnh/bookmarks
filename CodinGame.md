@@ -1,8 +1,12 @@
 
 # CodinGame
+
+# emh
  - https://cgmulti.azke.fr/players?p=Emh
 
 # General
+ - CG Stats: https://cgmulti.azke.fr/
+ - CG Stats: http://cgstats.magusgeek.com/app
  - Referee runner: https://github.com/dreignier/cg-brutaltester
  - CG Benchmark: https://github.com/s-vivien/CGBenchmark
  - CGSpunk: https://github.com/danBhentschel/CGSpunk
