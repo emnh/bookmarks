@@ -5,6 +5,19 @@
  - CG Stats: https://cgmulti.azke.fr/players?p=Emh
  - CG Stats CSB: http://cgstats.magusgeek.com/app/multi-coders-strike-back/emh
  - Royale Tool: http://apps.rezonux.com/codingame/?user=687d536b4e342533566e83cd9b5a799d2084851
+ - CSB Profile: http://emh.lart.no/publish/csb.svg
+ - CSB Doc: http://emh.lart.no/publish/csb/Coders_Strike_Back.pdf
+ 
+## Random personal CSB stuff I've worked on (watch out for GPU crashing beasts):
+ - (-3vel) StreamPlots: http://emh.lart.no/publish/csb/3vel/m3vel-plot.png
+ - CSB Movie Maker: https://github.com/emnh/csb-movie-maker/
+ - Smitsimax CPU Profile: http://emh.lart.no/publish/csb/csb.png http://emh.lart.no/publish/csb/csb.pdf
+ - Smitsimax Tree: http://emh.lart.no/publish/csb/mcts.svg
+ - GPU sim (HEAVY!): http://emh.lart.no/publish/csb/tsweb/
+ - Replay tool: http://emh.lart.no/publish/csb/web/csb.html
+ - Cookie Monster CSB Replay (HEAVY?): http://emh.lart.no/publish/csb/fast/csb.html
+ - Cookie Monster CSB Replay with stars (HEAVY?): http://emh.lart.no/publish/csb/dev/csb.html
+ - Replace "dev" by "NSFW" in the previous link and you will see something you cannot unsee...!
 
 # General
  - CG Stats (Azke): https://cgmulti.azke.fr/
@@ -28,7 +41,6 @@
  - Referee 2: https://github.com/mdelorme/cg_referee
  - MiniMax: https://recursive.cc/blog/coders-of-the-carribean-post-mortem.html
  - Replay visualization: http://jsbin.com/zeyuxim/edit?html,js,output
- - Profile: http://emh.lart.no/publish/csb.svg
  - CSB Runner Arena: https://github.com/Agade09/CSB-Runner-Arena
  - Example Fast ACos implementation (not using it): http://developer.download.nvidia.com/cg/acos.html
  - Map generation:
