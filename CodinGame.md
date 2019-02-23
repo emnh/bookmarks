@@ -3,11 +3,13 @@
 
 # emh personal quick links
  - CG Stats: https://cgmulti.azke.fr/players?p=Emh
- - CG Stats: http://cgstats.magusgeek.com/app/multi-coders-strike-back/emh
+ - CG Stats CSB: http://cgstats.magusgeek.com/app/multi-coders-strike-back/emh
+ - Royale Tool: http://apps.rezonux.com/codingame/?user=687d536b4e342533566e83cd9b5a799d2084851
 
 # General
- - CG Stats: https://cgmulti.azke.fr/
- - CG Stats: http://cgstats.magusgeek.com/app
+ - CG Stats (Azke): https://cgmulti.azke.fr/
+ - CG Stats (Magus): http://cgstats.magusgeek.com/app
+ - CG Stats (Royale Tool): http://apps.rezonux.com/codingame/
  - Referee runner: https://github.com/dreignier/cg-brutaltester
  - CG Benchmark: https://github.com/s-vivien/CGBenchmark
  - CGSpunk: https://github.com/danBhentschel/CGSpunk
