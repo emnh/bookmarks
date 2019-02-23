@@ -1,8 +1,9 @@
 
 # CodinGame
 
-# emh
- - https://cgmulti.azke.fr/players?p=Emh
+# emh personal quick links
+ - CG Stats: https://cgmulti.azke.fr/players?p=Emh
+ - CG Stats: http://cgstats.magusgeek.com/app/multi-coders-strike-back/emh
 
 # General
  - CG Stats: https://cgmulti.azke.fr/
