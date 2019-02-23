@@ -15,6 +15,7 @@
  - CGSpunk: https://github.com/danBhentschel/CGSpunk
  - CGSync: https://www.codingame.com/forum/t/codingame-sync-beta/614/44
  - ParameterFiddler: https://github.com/eulerscheZahl/ParameterFiddler
+ - CG Send Binary: https://github.com/Agade09/CG-Send-Binary
 
 # CSB resources
  - Inoryy's CSB starter: https://github.com/Inoryy/csb-ai-starter
