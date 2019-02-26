@@ -16,6 +16,7 @@
  - Inoryy's CSB starter: https://github.com/Inoryy/csb-ai-starter
  - MadKnight's CSB starter: https://github.com/0xFADEDB0B/mad-starter/blob/master/main.cpp
  - Smitsimax: https://tech.io/playgrounds/36476/smitsimax
+ - NN: https://github.com/pb4git/Nash-DQN-CSB-Article
  - Magus post mortem: http://files.magusgeek.com/csb/csb_en.html
  - FB GA: https://github.com/dreignier/fantastic-bits/blob/master/fantastic-bits.cpp#L1926-L2070
  - Sim tester: https://github.com/sethorizer/csb
