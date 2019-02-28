@@ -39,6 +39,7 @@
  - CSB Doc: http://emh.lart.no/publish/csb/Coders_Strike_Back.pdf
 
 ## Random personal CSB stuff I've worked on (watch out for GPU crashing beasts):
+ - CSB 3D: http://emh.lart.no/publish/csb/csb3d/v1/?dupCount=10&swarmCount=1&unitScale=0.2&ownPhysics=false
  - (-3vel) StreamPlots: http://emh.lart.no/publish/csb/3vel/m3vel-plot.png
  - CSB Movie Maker: https://github.com/emnh/csb-movie-maker/
  - CSB Movie Maker output: http://emh.lart.no/publish/csb/movie/video.mp4 http://emh.lart.no/publish/csb/movie/video2.mp4
