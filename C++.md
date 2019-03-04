@@ -1,2 +1,4 @@
  - Struct reflection: https://github.com/cbeck88/visit_struct
  - Map macro: https://github.com/swansontec/map-macro
+ - Self-inlining anonymous functions: http://matt.might.net/articles/self-inlining-anonymous-functions-in-c++/
+ - SC.cpp: http://matt.might.net/articles/static-closures-in-c-plus-plus/
