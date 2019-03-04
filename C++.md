@@ -3,3 +3,4 @@
  - Self-inlining anonymous functions: http://matt.might.net/articles/self-inlining-anonymous-functions-in-c++/
  - SC.cpp: http://matt.might.net/articles/static-closures-in-c-plus-plus/
  - Template Metaprogramming: https://github.com/caiorss/C-Cpp-Notes/blob/master/CPP-template-metaprogramming.org
+ - Strong types (e.g. Radians / Angles): https://github.com/foonathan/type_safe
