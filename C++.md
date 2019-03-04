@@ -1,0 +1,2 @@
+ - Struct reflection: https://github.com/cbeck88/visit_struct
+ - Map macro: https://github.com/swansontec/map-macro
