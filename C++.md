@@ -2,4 +2,4 @@
  - Map macro: https://github.com/swansontec/map-macro
  - Self-inlining anonymous functions: http://matt.might.net/articles/self-inlining-anonymous-functions-in-c++/
  - SC.cpp: http://matt.might.net/articles/static-closures-in-c-plus-plus/
- - https://github.com/caiorss/C-Cpp-Notes/blob/master/CPP-template-metaprogramming.org
+ - Template Metaprogramming: https://github.com/caiorss/C-Cpp-Notes/blob/master/CPP-template-metaprogramming.org
