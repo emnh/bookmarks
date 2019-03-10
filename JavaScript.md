@@ -1,5 +1,6 @@
 # JavaScript resources
  - https://www.matthewgerstman.com/what-the-functor/
+ - https://ponyfoo.com/articles/javascript-performance-pitfalls-v8
 
 # JavaScript RTS investigations
 
