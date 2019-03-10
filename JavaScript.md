@@ -1,3 +1,6 @@
+# JavaScript resources
+ - https://www.matthewgerstman.com/what-the-functor/
+
 # JavaScript RTS investigations
 
 Some notes on languages that compile to JavaScript with regard to writing my RTS.
