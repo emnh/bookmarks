@@ -15,3 +15,4 @@ Migrate list of movies from delicious.
  - [The Man Who Knew Infinity (2015)](http://www.imdb.com/title/tt0787524/)
  - [Chappie](https://www.imdb.com/title/tt1823672/)
  - [The Square (2017)](https://www.imdb.com/title/tt4995790/)
+ - [Cloud Atlas (2012)](https://en.wikipedia.org/wiki/Cloud_Atlas_(film))
