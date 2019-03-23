@@ -6,3 +6,4 @@
  - Kabalmysteriet (already read)
  - Plato's Republic (reading)
  - Jack London - Ulvehunden (already read)
+ - Terry Pratchett Books
