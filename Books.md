@@ -7,3 +7,4 @@
  - Plato's Republic (reading)
  - Jack London - Ulvehunden (already read)
  - Terry Pratchett Books
+ - Crime and Punishment by Fyodor Dostoevsky
