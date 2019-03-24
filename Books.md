@@ -8,3 +8,4 @@
  - Jack London - Ulvehunden (already read)
  - Terry Pratchett Books
  - Crime and Punishment by Fyodor Dostoevsky
+ - Red Queen (https://en.wikipedia.org/wiki/The_Red_Queen:_Sex_and_the_Evolution_of_Human_Nature)
