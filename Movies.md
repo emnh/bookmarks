@@ -9,6 +9,7 @@ Migrate list of movies from delicious.
  - [Edge of Tomorrow (2014)](http://www.imdb.com/title/tt1631867/)
  - [Inside Out (2015)](http://www.imdb.com/title/tt2096673/)
  - [Pitch Perfect 2 (2015)](http://www.imdb.com/title/tt2848292/)
+ - [Pi](https://www.imdb.com/title/tt0138704/)
 
 # To Watch
  - [John Wick (2014)](http://www.imdb.com/title/tt2911666/)
