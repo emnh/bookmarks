@@ -19,3 +19,4 @@
  - The Great Gatsby by F. Scott Fitzgerald
  - The Singularity is Near by Ray Kurzweil
  - The Blank Slate by Steven Pinker
+ - The Book: On the Taboo Against Knowing Who You Are - Alan Watts
