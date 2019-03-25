@@ -10,3 +10,12 @@
  - Crime and Punishment by Fyodor Dostoevsky
  - Red Queen (https://en.wikipedia.org/wiki/The_Red_Queen:_Sex_and_the_Evolution_of_Human_Nature)
  - Anathem (already read I think) by Neal Stephenson https://en.wikipedia.org/wiki/Anathem
+ - Sapiens: A brief history of mankind by Yuval Noah Harari
+ - Homo Deus by Yuval Noah Harari
+ - Brief Answers to Big Questions by Stephen Hawking
+ - 12 Rules For Life by Jordan B Peterson
+ - F Scott Fitzgerald by The Great Gatsby
+ - The Mathematics of the Breath And The Way by Charles Bukowski
+ - The Great Gatsby by F. Scott Fitzgerald
+ - The Singularity is Near by Ray Kurzweil
+ - The Blank Slate by Steven Pinker
