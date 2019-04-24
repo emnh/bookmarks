@@ -26,3 +26,4 @@
  - Sult by Hamsun
  - Musicophilia: Tales of Music and the Brain by Oliver Sacks (half-read)
  - Thinking Fast and Slow by Daniel Kahneman (half-read)
+ - Steve Jobs by Walter Isaacson (half-read)
