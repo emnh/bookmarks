@@ -1,5 +1,7 @@
-# Read
+# Already Read (TODO: update from old bookmarks)
  - Homo Deus by Yuval Noah Harari
+ - Atlas Shrugged by Ayn Rand
+ - Dune Series by Frank Herbert, Brian Herbert and Kevin J. Anderson (read many of them, but not all)
  
 # Books To Read
  - Emoji Dick
@@ -27,3 +29,4 @@
  - Musicophilia: Tales of Music and the Brain by Oliver Sacks (half-read)
  - Thinking Fast and Slow by Daniel Kahneman (half-read)
  - Steve Jobs by Walter Isaacson (half-read)
+ - The Fountainhead by Ayn Rand (half-read)
