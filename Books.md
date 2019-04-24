@@ -1,24 +1,28 @@
+# Read
+ - Homo Deus by Yuval Noah Harari
+ 
 # Books To Read
  - Emoji Dick
  - The Bible
  - Sofie's Verden
  - Vita Brevis (already read)
  - Kabalmysteriet (already read)
- - Plato's Republic (reading)
+ - Plato's Republic (need to reread)
  - Jack London - Ulvehunden (already read)
  - Terry Pratchett Books
  - Crime and Punishment by Fyodor Dostoevsky
  - Red Queen (https://en.wikipedia.org/wiki/The_Red_Queen:_Sex_and_the_Evolution_of_Human_Nature)
- - Anathem (already read I think) by Neal Stephenson https://en.wikipedia.org/wiki/Anathem
+ - Anathem by Neal Stephenson https://en.wikipedia.org/wiki/Anathem (already read I think)
  - Sapiens: A brief history of mankind by Yuval Noah Harari
- - Homo Deus by Yuval Noah Harari
  - Brief Answers to Big Questions by Stephen Hawking
- - 12 Rules For Life by Jordan B Peterson
- - F Scott Fitzgerald by The Great Gatsby
- - The Mathematics of the Breath And The Way by Charles Bukowski
+ - 12 Rules For Life by Jordan B Peterson (half-read)
+ - The Great Gatsby by F Scott Fitzgerald
+ - The Mathematics of the Breath And The Way by Charles Bukowski (started)
  - The Great Gatsby by F. Scott Fitzgerald
  - The Singularity is Near by Ray Kurzweil
- - The Blank Slate by Steven Pinker
+ - The Blank Slate by Steven Pinker (started)
  - The Book: On the Taboo Against Knowing Who You Are - Alan Watts
- - Freakonomics by Steven D Levitt & Stephen J Dubner
+ - Freakonomics by Steven D Levitt & Stephen J Dubner (half-read)
  - Sult by Hamsun
+ - Musicophilia: Tales of Music and the Brain by Oliver Sacks (half-read)
+ - Thinking Fast and Slow by Daniel Kahneman (half-read)
