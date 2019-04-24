@@ -1,7 +1,9 @@
 # Already Read (TODO: update from old bookmarks)
- - Homo Deus by Yuval Noah Harari
- - Atlas Shrugged by Ayn Rand
  - Dune Series by Frank Herbert, Brian Herbert and Kevin J. Anderson (read many of them, but not all)
+ - LOTR by J.R.R. Tolkien
+ - Hobbit by J.R.R. Tolkien
+ - Atlas Shrugged by Ayn Rand
+ - Homo Deus by Yuval Noah Harari (read in 2019)
  
 # Books To Read
  - Emoji Dick
