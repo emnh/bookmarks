@@ -32,3 +32,4 @@
  - Thinking Fast and Slow by Daniel Kahneman (half-read)
  - Steve Jobs by Walter Isaacson (half-read)
  - The Fountainhead by Ayn Rand (half-read)
+ - War and Peace (https://en.wikipedia.org/wiki/War_and_Peace)
