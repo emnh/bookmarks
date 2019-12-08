@@ -33,3 +33,4 @@
  - Steve Jobs by Walter Isaacson (half-read)
  - The Fountainhead by Ayn Rand (half-read)
  - War and Peace (https://en.wikipedia.org/wiki/War_and_Peace)
+ - The Red Book by Carl Jung
