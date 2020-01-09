@@ -42,6 +42,9 @@ My favourites are static functional languages with global type inference. My new
  - Swift (idk, for fun?)
  - Groovy (idk, for fun?)
 
+# New languages
+ - Beef (https://www.beeflang.org/) C# with C performance
+
 # Markup Languages and associates I know
  - HTML
  - XML
