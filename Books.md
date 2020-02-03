@@ -38,3 +38,6 @@
 
 # Audio Books
  - 1000 free classical audio books: http://www.openculture.com/freeaudiobooks
+
+# Programming Books
+ - Game AI Pro: http://www.gameaipro.com/
