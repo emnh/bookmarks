@@ -34,8 +34,11 @@
  - [Polycraft: Long Term Strategy](https://ga.me/games/polycraft)
  - [Astroe.io: Multiplayer Asteroids](http://astroe.io/)
  - [Sandspiel.club](https://sandspiel.club/)
+
+# Wave Function Collapse and Level or Art Generation
  - [Brick Block](http://oskarstalberg.com/game/house/index.html)
  - [Polygonal Planet](http://oskarstalberg.com/game/planet/planet.html)
+ - [ConvChain GPU](https://github.com/kchapelier/convchain-gpu)
  
 # Sites
 - [David Li](http://david.li/)
