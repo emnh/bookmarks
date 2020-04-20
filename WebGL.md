@@ -34,6 +34,8 @@
  - [Polycraft: Long Term Strategy](https://ga.me/games/polycraft)
  - [Astroe.io: Multiplayer Asteroids](http://astroe.io/)
  - [Sandspiel.club](https://sandspiel.club/)
+ - [Brick Block](http://oskarstalberg.com/game/house/index.html)
+ - [Polygonal Planet](http://oskarstalberg.com/game/planet/planet.html)
  
 # Sites
 - [David Li](http://david.li/)
