@@ -39,6 +39,7 @@
  - [Brick Block](http://oskarstalberg.com/game/house/index.html)
  - [Polygonal Planet](http://oskarstalberg.com/game/planet/planet.html)
  - [ConvChain GPU](https://github.com/kchapelier/convchain-gpu)
+ - [DeBroglie](https://github.com/BorisTheBrave/DeBroglie)
  
 # Sites
 - [David Li](http://david.li/)
