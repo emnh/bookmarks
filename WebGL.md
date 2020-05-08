@@ -22,6 +22,7 @@
  - [3D Fluid Particles](http://david.li/fluid/)
  - [WebGL Fur](https://keaukraine.github.io/webgl-fur/)
  - [Marching Neural Network](https://arogozhnikov.github.io/3d_nn/)
+ - [SPH Fluid Again](https://www.derschmale.com/lab/doodles/sph/build/)
 
 # Libraries
  - [WebCLGL](https://github.com/stormcolor/webclgl)
