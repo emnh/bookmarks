@@ -61,6 +61,7 @@ My favourites are static functional languages with global type inference. My new
 
 # Clojure(Script)
  - [Cheat Sheet](http://clojure.org/api/cheatsheet)
+ - Atom packages: language-clojure, parinfer, paredit, proto-repl
 
 ## Execute online (versions per 04.05.2016)
  - [ClojureScript 1.9.225 @ app.klipse.tech](http://app.klipse.tech/)
