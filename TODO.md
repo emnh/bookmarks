@@ -1,4 +1,5 @@
 # TODO
+ - Set up multiplexer for permanent storage on my server
  - Use quantum wave function collapse for infinite pixel art tiled map.
  - Work on Townscaper clone.
  - Create pixel tower defense.
