@@ -28,6 +28,7 @@
 My favourites are static functional languages with global type inference. My newest projects are in ReasonML.
 
 # Languages worth mentioning (that I might try some day)
+ - V (https://github.com/vlang/v)
  - Haskell (type adventures)
  - Go (channels and concurrency)
  - Kotlin (a better Java)
