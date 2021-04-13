@@ -1,6 +1,7 @@
 # JavaScript resources
  - https://www.matthewgerstman.com/what-the-functor/
  - https://ponyfoo.com/articles/javascript-performance-pitfalls-v8
+ - https://markodenic.com/use-console-log-like-a-pro/
 
 # JavaScript RTS investigations
 
