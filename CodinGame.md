@@ -52,3 +52,8 @@
  - Cookie Monster CSB Replay (HEAVY?) "fast" version: http://emh.lart.no/publish/csb/fast/csb.html
  - Cookie Monster CSB Replay (HEAVY?) dev version: http://emh.lart.no/publish/csb/dev/csb.html
  - Replace "dev" by "NSFW" in the previous link and you will see something you cannot unsee...!
+
+# Similar sites (problem solving sites)
+ - https://projectlovelace.net/problems/
+ - Project Euclid
+ - ACM UVA Judge
