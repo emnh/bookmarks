@@ -41,3 +41,4 @@
 
 # Programming Books
  - Game AI Pro: http://www.gameaipro.com/
+ - Deep Learning Interviews: https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf
