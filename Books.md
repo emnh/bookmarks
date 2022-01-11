@@ -34,11 +34,11 @@
  - The Fountainhead by Ayn Rand (half-read)
  - War and Peace (https://en.wikipedia.org/wiki/War_and_Peace)
  - The Red Book by Carl Jung
- - SICP Javscript (https://sicp.comp.nus.edu.sg/index.html)
 
 # Audio Books
  - 1000 free classical audio books: http://www.openculture.com/freeaudiobooks
 
 # Programming Books
+ - SICP Javascript (https://sicp.comp.nus.edu.sg/index.html)
  - Game AI Pro: http://www.gameaipro.com/
  - Deep Learning Interviews: https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf
