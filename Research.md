@@ -1,5 +1,11 @@
 # Research Related Reading
 
+## Graph Theory and Neural Networks
+ - [CombOpt Zero](https://github.com/xuzijian629/combopt-zero)
+ - [Solving NP-hard problems on Graphs with Extended AlphaGo Zero](https://arxiv.org/pdf/1905.11623.pdf)
+ - [Estimating Search Tree Size](https://www.aaai.org/Papers/Workshops/2006/WS-06-11/WS06-11-005.pdf)
+ - [Estimating the Size of Branch-and-Bound Trees](https://opus4.kobv.de/opus4-zib/files/7814/zibreportestimatingSearchTreeSize.pdf)
+
 ## Compression
  - [Compressing Sets and Multisets of Sequences](http://arxiv.org/pdf/1401.6410.pdf)
  - [Compressing multisets using tries](http://www.vincent-gripon.com/files/articles/2012-itw.pdf)
