@@ -5,6 +5,7 @@
  - [Solving NP-hard problems on Graphs with Extended AlphaGo Zero](https://arxiv.org/pdf/1905.11623.pdf)
  - [Estimating Search Tree Size](https://www.aaai.org/Papers/Workshops/2006/WS-06-11/WS06-11-005.pdf)
  - [Estimating the Size of Branch-and-Bound Trees](https://opus4.kobv.de/opus4-zib/files/7814/zibreportestimatingSearchTreeSize.pdf)
+ - [Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/abs/1704.01665)
 
 ## Compression
  - [Compressing Sets and Multisets of Sequences](http://arxiv.org/pdf/1401.6410.pdf)
