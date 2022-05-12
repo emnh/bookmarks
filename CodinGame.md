@@ -57,3 +57,9 @@
  - https://projectlovelace.net/problems/
  - Project Euclid
  - ACM UVA Judge
+
+# Bit fiddling
+ - https://lemire.me/blog/2022/05/06/fast-bitset-decoding-using-intel-avx-512/
+ - https://tech.io/playgrounds/58096/how-to-randomize-bits-and-integers-efficiently-in-c
+ - https://tech.io/playgrounds/58038/fast-connected-components-for-6x12-bitboard
+ - https://tech.io/playgrounds/53455/fast-15x15-bit-grid-bfs-breadth-first-search
