@@ -63,3 +63,4 @@
  - https://tech.io/playgrounds/58096/how-to-randomize-bits-and-integers-efficiently-in-c
  - https://tech.io/playgrounds/58038/fast-connected-components-for-6x12-bitboard
  - https://tech.io/playgrounds/53455/fast-15x15-bit-grid-bfs-breadth-first-search
+ - https://jjj.de/fxt/fxtbook.pdf
