@@ -43,3 +43,4 @@
  - Game AI Pro: http://www.gameaipro.com/
  - Deep Learning Interviews: https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf
  - Lipovača, Miran (April 2011). Learn You a Haskell for Great Good!
+ - Algorithms: https://jeffe.cs.illinois.edu/teaching/algorithms/
