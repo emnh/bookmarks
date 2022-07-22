@@ -1,3 +1,5 @@
  - [Photopea](https://www.photopea.com/) Web Based Image Editor
  - [Online Diagramming Tool](https://app.diagrams.net/)
  - [Semgrep](https://semgrep.dev/) Semantic Code Grepper
+ - Online Video chat (https://episoden.com/main)
+ - Focusmate (https://www.focusmate.com/)
