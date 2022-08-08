@@ -6,6 +6,7 @@
  - Homo Deus by Yuval Noah Harari (read in 2019)
  
 # Books To Read
+ - https://en.wikipedia.org/wiki/Novacene
  - Emoji Dick
  - The Bible
  - Sofie's Verden
