@@ -18,3 +18,5 @@ Migrate list of movies from delicious.
  - [The Square (2017)](https://www.imdb.com/title/tt4995790/)
  - [Cloud Atlas (2012)](https://en.wikipedia.org/wiki/Cloud_Atlas_(film))
  - [Vox Lux (2018)](https://www.imdb.com/title/tt5960374/)
+ - Ex Machina (Interaction between female robot and man) 
+ - Her (Guy falling in love with Scarlett Johansson OS on his computer)
