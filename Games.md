@@ -89,6 +89,7 @@
  - [Yorg.io: Resource Network Tower Defense](https://yorgio.itch.io/yorgio)
  - [Space Ships War](https://spaceshipswar.itch.io/space-ships-war)
  - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+ - [Rocket Drone](https://rocket-drone.lol/)
 
 # Lesser mentions
  - [Chefren's Pyramid (19xx)](http://www.alega.se/english/pyramidmath/Chefrens_Pyramid/chefrens_pyramid.html)
