@@ -4,3 +4,4 @@ The values I prioritize when looking for work are:
  - Measurable progress in shipments of software
  - Salary
  - The global importance of the software that is created
+ - Communicating about programming with coworkers
