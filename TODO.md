@@ -11,3 +11,7 @@
  - Use https://github.com/thunil/TecoGAN or docker https://github.com/tom-doerr/TecoGAN to upscale lego animation resolution.
  - Use boolean matrix as neural network.
  - Try to use neural network for computing boolean width of a cut.
+
+ - Read Crime and Punishment.
+ - Watch Oppenheimer movie.
+ - Continue watching Robert Sapolsky lectures.
