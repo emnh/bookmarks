@@ -20,3 +20,6 @@ Migrate list of movies from delicious.
  - [Vox Lux (2018)](https://www.imdb.com/title/tt5960374/)
  - Ex Machina (Interaction between female robot and man) 
  - Her (Guy falling in love with Scarlett Johansson OS on his computer)
+ - Poor Things (Emma Stone and Mark Ruffalo, got a 6/6 from NRK)
+ - Oppenheimer
+ - Barbie
